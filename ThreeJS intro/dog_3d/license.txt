@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shiba Baker Inu cafe
+* source:	https://sketchfab.com/3d-models/shiba-baker-inu-cafe-71895bd2c24f4fb89482def7629b4343
+* author:	Elonova (https://sketchfab.com/genovaeloi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shiba Baker Inu cafe" (https://sketchfab.com/3d-models/shiba-baker-inu-cafe-71895bd2c24f4fb89482def7629b4343) by Elonova (https://sketchfab.com/genovaeloi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
